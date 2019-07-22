@@ -1,5 +1,5 @@
 # AstraVsMultipla
-For testing reinforcement learning
+For testing transfer learning
 
 General workflow:
 
